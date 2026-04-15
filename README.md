@@ -1,3 +1,20 @@
+# Cognitio - Frontend
+
+Aplicación web del sistema Cognitio, desarrollada con React, TypeScript y Vite.
+
+## 🚀 Tecnologías
+- React
+- TypeScript
+- Vite
+- Zustand
+- React Hook Form
+- Axios
+
+## 📦 Instalación
+
+```bash
+npm install
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
